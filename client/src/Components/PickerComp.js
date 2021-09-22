@@ -139,7 +139,7 @@ function PickerComp({
           space={2}
         >
           <Grid item xs={12} sm={6} md={6} lg={6} xl={6}>
-            <img src={image_url} style={{ height: '100%' }} />
+            <img src={image_url} style={{ width: '100%' }} />
           </Grid>
         </Grid>
         <Grid
